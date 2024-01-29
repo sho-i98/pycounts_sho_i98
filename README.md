@@ -1,6 +1,7 @@
 # pycounts_sho_i98
 
 Calculate word counts in a text file!
+Author
 
 ## Installation
 
